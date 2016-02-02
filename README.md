@@ -2,8 +2,9 @@
 
 its a live comment system where anyone can comment and anyone can reply on that comment.
 
-## Setup ##
+## How Do i Get Setup ##
 
+* type composer install into your project directory
 * create a database 'live_comment' or what you like
 * Go to 'config/database.php' and edit the mysql configuration to yours from line no. 9 to 12
 * Now go to your installation url where you hosted the script i.e. http://your_server_url/live-comment/ and on first time it runs the migration.
